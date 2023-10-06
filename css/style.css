@@ -1,0 +1,799 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 1.7em;
+	font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.header{
+	width: 100%;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link{
+	width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 22px 0px 0px;
+}
+
+.header .navbar li{
+	list-style: none;
+	text-decoration: none;
+}
+.header .navbar li a{
+	text-decoration: none;
+	color: #484f5b;
+	margin: 10px 0px;
+}
+.header .navbar li a:hover{
+	color: #e2aca3e8;
+}
+.banner1{
+	background: url("../images/design.png") center top no-repeat;
+	background-size: cover;
+}
+.banner1 .ban1{
+	background: url("../images/anner1.png") center top no-repeat;
+}
+.banner1 h1{
+	font-size: 70px;
+	font-weight: 700;
+	color: #484f5b;
+	margin: 130px 0px 0px 110px;
+}
+.banner1 img{
+	align-items: left;
+}
+.banner1 p{
+	margin: 100px 0px 0px 110px;
+	color: #484f5b;
+	font-size: 20px;
+}
+.banner1 .btn{
+	margin: 100px 0px 0px 110px;
+	border-radius: 0px;
+	background: #e2aca3e8;
+	color: #484f5b;
+	font-weight: 700;
+	border: none;
+	padding: 10px 25px;
+	transition: 1s;
+
+}
+.banner1 .btn:hover{
+	background: #484f5b;
+}
+.banner2{
+	background: url("../images/ody1.png") center top no-repeat;
+	background-size: cover;
+	height: 1000px;
+	padding-bottom: 500px;
+}
+.banner2 h1{
+	font-size: 70px;
+	font-weight: 700;
+	color: #484f5b;
+	margin: 220px 0px 0px 30px;
+}
+.banner2 p{
+	margin: 100px 0px 0px 35px;
+	color: #484f5b;
+	font-size: 20px;
+}
+.banner2 .btn{
+	margin: 100px 0px 0px 35px;
+	border-radius: 0px;
+	background: #e2aca3e8;
+	font-weight: 600;
+	color: #484f5b;
+	font-weight: 700;
+	border: none;
+	padding: 10px 25px;
+	transition: 1s;
+}
+.banner2 .btn:hover{
+	background: #484f5b;
+}
+.banner31{
+	background: url("../images/ody2.png") center top no-repeat;
+	height: 200px;
+}
+
+
+.banner3 h1{
+	font-size: 30px;
+}
+.banner3 .brush1{
+	background: url("../images/rush1.png") center top no-repeat;
+	height: 300px;
+	margin: 60px 0px 0px 0px;
+}
+.banner3 .brush1 img{
+	margin: 20px 0px 0px 100px;
+}
+.banner3 .brush1 h4{
+	margin: 50px 0px 0px 140px;
+	font-weight: 600;
+}
+.banner3 .brush1 p{
+	margin: 0px 0px 0px 115px;
+}
+
+
+
+.banner3 .brush2{
+	background: url("../images/rush1.png") center top no-repeat;
+	height: 300px;
+	margin: 60px 0px 0px 0px;
+}
+.banner3 .brush2 img{
+	margin: -22px 0px 0px 100px;
+}
+.banner3 .brush2 h4{
+	margin: 50px 0px 0px 140px;
+	font-weight: 600;
+}
+.banner3 .brush2 p{
+	margin: 0px 0px 0px 115px;
+}
+
+
+.banner3 .brush3{
+	background: url("../images/rush1.png") center top no-repeat;
+	height: 300px;
+	margin: 60px 0px 0px 0px;
+}
+.banner3 .brush3 img{
+	margin: -20px 0px 0px 100px;
+}
+.banner3 .brush3 h4{
+	margin: 50px 0px 0px 140px;
+	font-weight: 600;
+}
+.banner3 .brush3 p{
+	margin: 0px 0px 0px 115px;
+}
+
+
+.banner4{
+	background: url("../images/designtop.png") center top no-repeat;
+	background-size: cover;
+	height: 600px;
+}
+.banner4 h1{
+ 	margin: 130px 0px 0px 0px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #484f5b;
+
+}
+.banner4 p{
+	font-size: 20px;
+    margin: 40px 0px 0px 0px;
+}
+.banner4 .btn{
+    border-radius: 0px;
+	background: #e2aca3e8;
+	font-weight: 600;
+	color: #484f5b;
+	font-weight: 700;
+	border: none;
+	padding: 10px 25px;
+	margin: 35px 0px 0px 0px;
+	transition: 1s;
+}
+.banner4 .btn:hover{
+	background: #484f5b;
+}
+.banner4 img{
+	margin-top: 70px;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+
+.banner5{
+	background: url("../images/anner4.png") center top no-repeat;
+	height: 700px;
+	background-size: cover;
+}
+.banner5 h1{
+	margin: 200px 0px 0px 40px;
+	font-size: 50px;
+	font-weight: 700;
+	color: #484f5b;
+}
+.banner5 p{
+	margin: 70px 0px 0px 40px;
+	font-size: 20px;
+	color: #484f5b;
+}
+.banner5 .btn{
+	border-radius: 0px;
+	background: #e2aca3e8;
+	font-weight: 600;
+	color: #484f5b;
+	font-weight: 700;
+	border: none;
+	padding: 10px 25px;
+	margin: 70px 0px 0px 45px;
+	transition: 1s;
+}
+.banner5 .btn:hover{
+	background: #484f5b;
+}
+.banner5 .col6{
+	background: url("../images/joinnow.png") left top no-repeat;
+
+}
+
+.banner6{
+	background: url("../images/ody5.png") center top no-repeat;
+	height: 1000px;
+}
+.banner6 img{
+	box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.banner6 h1{
+	margin: 130px 0px 0px 40px;
+	font-size: 50px;
+	font-weight: 700;
+	color: #484f5b;
+}
+.banner6 .head{
+	margin: 35px 0px 45px 40px;
+	font-size: 20px;
+	color: #484f5b;
+}
+.banner6 .facilis{
+	background: #fff;
+	width: 351px;
+	height: 200px;
+}
+.banner6 .facilis h3{
+	font-size: 35px;
+    text-align: center;
+    color: #484f5b;
+    font-weight: 700;
+    margin: 20px 0px 20px 0px;
+}
+.banner6 .facilis p{
+    font-size: 20px;
+    text-align: center;
+    color: #484f5b;
+}
+.banner7{
+	background: #e5ccc6;
+	height: 700px;
+}
+.banner7 img{
+	margin-top: 120px;
+}
+.banner7 h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 170px 0px 0px 60px;
+}
+.banner7 p{
+font-size: 20px;
+    margin: 50px 0px 0px 60px;
+}
+.banner7 ul{
+	list-style: none;
+    margin: 50px 0px 0px 30px;
+}
+.banner7 ul li{
+	display: inline-block;
+	list-style: none;
+}
+.banner7 ul li i{
+	background: #484f5b;
+    font-size: 30px;
+    margin-right: 30px;
+    color: #fff;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+}
+.banner7 ul li i:hover{
+	background: #fff;
+	color: #484f5b;
+}
+.banner8{
+	background: url("../images/ody5.png") center top no-repeat;
+	background-size: cover;
+	height: 750px;
+}
+.banner8 h1{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 80px 0px 30px 0px;
+    color: #484f5b;
+}
+.banner8 p{
+	font-size: 20px;
+    color: #484f5b;
+    margin-bottom: 50px;
+
+}
+.banner8 label{
+	display: block;
+}
+.banner8 input{
+	width: 100%;
+	background-color: #efefef;
+	border: 1px solid grey;
+	padding: 8px 0px 8px 0px;
+	margin-bottom: 30px;
+}
+.banner8 .yourname{
+
+}
+.banner8 textarea{
+	background-color: #efefef;
+}
+.banner8 .btn{
+	width: 160px;
+    margin: 20px 0px 0px 12px;
+    border-radius: 0px;
+	background: #e2aca3e8;
+	color: #484f5b;
+	font-weight: 700;
+	border: none;
+	padding: 10px 25px;
+	transition: 1s;
+}
+.banner8 .btn:hover{
+	background: #484f5b;
+	color: #fff;
+}
+.footer{
+	background: #484f5b;
+	height: 300px;
+}
+.footer h4{
+    color: #fff;
+    margin: 35px 0px 0px 0px;
+}
+.footer p{
+	margin: 25px 0px 0px 0px;
+    color: #fff;
+}
+.footer .domain{
+	margin-top: 35px;
+}
+.footer .domain:hover{
+	color: #08c;
+	transition: 1s;
+}
+.footer h6{
+    color: #fff;
+    margin: 40px 0px 20px 0px
+}
+.footer span{
+	font-weight: 600;
+}
+.footer ul{
+	list-style: none;
+	padding-left: 0px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer img{
+	margin: 30px 0px 0px 0px;
+}
+.footer .copy{
+	margin-bottom: 20px;
+}
+.footer i{
+    font-size: 20px;
+    width: 35px;
+    height: 35px;
+    margin-right: 20px;
+    background: #fff;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+}
+.footer i:hover{
+	color: #fff;
+	background: #484f5b;
+}
+
+
+/*css media query start*/
+
+/***
+ *screen resolution: 279px to 319px
+ * most of the folding mobile phone like galaxy fold.
+ *  
+***/
+@media (min-width: 279px) and (max-width: 319px) {
+ /*css start */
+
+/*css end */
+
+}
+/***
+ *screen resolution: 320px to 480px
+ * most of the  mobile phones.
+ *  
+***/
+@media (min-width: 320px) and (max-width: 480px) {
+ /*css start */
+ .banner1 img{
+ 	height: 350px;
+    width: 361px;
+    margin: 0px auto;
+ }
+ .banner1 h1{
+ 	font-size: 35px;
+    font-weight: 700;
+    color: #484f5b;
+    margin: 0px 0px 0px 30px;
+ }
+ .banner1 p{
+ 	margin: 40px 0px 0px 30px;
+    color: #484f5b;
+    font-size: 13px;
+ }
+ .banner1 .btn {
+    margin: 50px 0px 50px 30px;
+    border-radius: 0px;
+    background: #e2aca3e8;
+    color: #484f5b;
+    font-weight: 700;
+    border: none;
+    padding: 10px 20px;
+    transition: 1s;
+}
+.banner2{
+	background: url(../images/ody1.png) center top no-repeat;
+    background-size: cover;
+    height: 200px;
+    padding-bottom: 400px;
+}
+.banner2 h1 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #484f5b;
+    margin: 50px 0px 0px 30px
+}
+.banner2 p {
+    margin: 50px 0px 0px 30px;
+    color: #484f5b;
+    font-size: 13px;
+}
+.banner2 .btn {
+    margin: 50px 0px 0px 30px;
+    border-radius: 0px;
+    background: #e2aca3e8;
+    font-weight: 600;
+    color: #484f5b;
+    font-weight: 700;
+    border: none;
+    padding: 10px 25px;
+    transition: 1s;
+}
+.banner3 .brush1 img {
+    margin: 20px 0px 0px 70px;
+}
+.banner3 .brush1 h4 {
+    margin: 50px 0px 0px 105px;
+    font-weight: 600;
+}
+.banner3 .brush1 p {
+    margin: 0px 0px 0px 75px;
+}
+.banner3 .brush2 img {
+    margin: 20px 0px 0px 70px;
+}
+.banner3 .brush2 h4 {
+    margin: 50px 0px 0px 105px;
+    font-weight: 600;
+}
+.banner3 .brush2 p {
+    margin: 0px 0px 0px 75px;
+}
+.banner3 .brush3 img {
+    margin: 20px 0px 0px 70px;
+}
+.banner3 .brush3 h4 {
+    margin: 50px 0px 0px 105px;
+    font-weight: 600;
+}
+.banner3 .brush3 p {
+    margin: 0px 0px 0px 75px;
+}
+.banner4 h1 {
+    margin: 50px 0px 0px 30px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #484f5b;
+    font-size: 35px;
+}
+.banner4 p {
+    font-size: 12px;
+    margin: 40px 0px 0px 30px;
+}
+.banner4 img{
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    height: 220px;
+    width: 80%;
+    margin: 50px auto;
+    display: block;
+}
+.banner4 .btn {
+    border-radius: 0px;
+    background: #e2aca3e8;
+    font-weight: 600;
+    color: #484f5b;
+    font-weight: 700;
+    border: none;
+    padding: 10px 25px;
+    margin: 40px 0px 0px 30px;
+    transition: 1s;
+}
+.banner5 {
+    background: url(../images/anner4.png) center top no-repeat;
+    height: 310px;
+    background-size: 610px;
+    padding: 35px 0px;
+}
+.banner5 h1 {
+    margin: 0px 0px 0px 30px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #484f5b;
+}
+.banner5 p {
+    margin: 50px 0px 0px 30px;
+    font-size: 12px;
+    color: #484f5b;
+}
+.banner5 .btn {
+    border-radius: 0px;
+    background: #e2aca3e8;
+    font-weight: 600;
+    color: #484f5b;
+    font-weight: 700;
+    border: none;
+    padding: 10px 25px;
+    margin: 50px 0px 0px 30px;
+    transition: 1s;
+}
+.banner6 img{
+	height: 60%;
+    width: 85%;
+}
+.banner6 h1 {
+    margin: 50px 0px 0px 0px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #484f5b;
+}
+.banner6 .head {
+    margin: 29px 30px 45px 30px;
+    font-size: 11px;
+    color: #484f5b;
+}
+.banner6 .facilis h3 {
+    font-size: 35px;
+    text-align: center;
+    color: #484f5b;
+    font-weight: 700;
+    margin: 35px 0px 35px 0px;
+}
+.banner6 .facilis p {
+    font-size: 11px;
+    text-align: center;
+    color: #484f5b;
+}
+.banner6 img {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin: 0px auto;
+    display: block;
+}
+
+
+
+/*css end */
+ 
+}
+
+/***
+ *screen resolution: 481px to 767px
+ * most of the mobile phones & low resolution tab.
+ *  
+***/
+@media (min-width: 481px) and (max-width: 767px) {
+ /*css start */
+
+/*css end */
+ 
+}
+
+/***
+ *screen resolution: 768px to 992px
+ * most of the tablets,notebooks & ipads.
+ *  
+***/
+@media (min-width: 768px) and (max-width: 992px) {
+ /*css start */
+.banner1 h1 {
+    font-size: 55px;
+}
+/*css end */
+ 
+}
+
+
+/***
+ *screen resolution: 993px to 1199px
+ * most of the laptop.
+ *  
+***/
+@media (min-width: 993px) and (max-width: 1199px) {
+/*css start */
+.banner1 img {
+    align-items: left;
+    height: 550px;
+    width: 550px;
+}
+.banner1 h1 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #484f5b;
+    margin: 100px 0px 0px 100px;
+}
+.banner1 p {
+    margin: 50px 0px 0px 110px;
+    color: #484f5b;
+    font-size: 14px;
+}
+.banner1 .btn {
+    margin: 60px 0px 0px 110px;
+    }
+    .banner2{
+        background-size: 100%;
+        height: 600px;
+    }
+    .banner2 h1 {
+    font-size: 48px;
+    margin: 100px 0px 0px 30px;
+}
+.banner2 p {
+    margin: 80px 0px 0px 35px;
+    font-size: 14px;
+}
+.banner3 .brush1 img {
+    margin: 70px 0px 0px 50px;
+}
+.banner3 .brush2 img {
+    margin: 20px 0px 0px 50px;
+}
+.banner3 .brush3 img {
+    margin: 20px 0px 0px 50px;
+}
+.banner3 .brush1 h4 {
+    margin: 40px 0px 0px 80px;
+    }
+.banner3 .brush1 p {
+    margin: 0px 0px 0px 55px;
+}
+.banner3 .brush2 h4 {
+    margin: 40px 0px 0px 80px;
+    font-weight: 600;
+}
+.banner3 .brush2 p {
+    margin: 0px 0px 0px 60px;
+}
+.banner3 .brush3 h4 {
+    margin: 40px 0px 0px 85px;
+    font-weight: 600;
+}
+.banner3 .brush3 p {
+    margin: 0px 0px 0px 65px;
+}
+.banner4 h1 {
+    margin: 130px 0px 0px 30px
+}
+.banner4 p {
+    font-size: 15px;
+    margin: 40px 0px 0px 30px;
+}
+.banner4 .btn {    
+	margin: 30px 0px 0px 30px;
+}
+.banner4 img {
+    height: 88%;
+    width: 100%;
+}
+.banner5{
+	background-size: 100%;
+}
+.banner5 h1 {
+    margin: 50px 0px 0px 30px;
+}
+.banner5 p {
+    margin: 40px 0px 0px 40px;
+    font-size: 15px;
+    color: #484f5b;
+}
+.banner5 .btn {
+	margin: 40px 0px 0px 45px;
+}
+
+.banner6 h1 {
+    margin: 0px 0px 0px 40px;
+    font-size: 50px;
+}
+.banner6 img {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    height: 50%;
+}
+.banner6 {
+    background: url(../images/ody5.png) center top no-repeat;
+    height: 600px;
+}
+.banner6 .head {
+    margin: 35px 0px 45px 40px;
+    font-size: 15px;
+    color: #484f5b;
+}
+.banner6 .facilis h3 {
+    font-size: 30px;
+    text-align: left;
+    margin: 25px 0px 20px 25px;
+}
+.banner6 .facilis p {
+    font-size: 14px;
+    text-align: left;
+    color: #484f5b;
+    margin-left: 28px;
+}
+.banner7 img {
+    margin-top: 215px;
+    height: 55%;
+}
+.banner7 h1 {
+    font-size: 50px;
+    margin: 228px 0px 0px 70px;
+}
+.banner7 p {
+    font-size: 13px;
+    margin: 50px 0px 0px 75px;
+}
+.banner7 ul li i {
+	font-size: 25px;
+}
+.banner8 p {
+    font-size: 14px;
+  }
+.banner8 textarea {
+    resize: vertical;
+    width: 100%;
+}
+.footer p {
+    margin: 0px 0px 0px 0px;
+}
+.footer .copy {
+    margin-bottom: 5px;
+}
+
+/*css end */
+}
+
+
